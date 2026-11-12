@@ -1,1 +1,23 @@
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  margin-top: 5px;
+}
 
+.button-container button {
+  cursor: pointer;
+}
+
+form {
+  text-align: center;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  margin-top: 5px;
+}
